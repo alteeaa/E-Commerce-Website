@@ -1,2 +1,2 @@
-# E-Commerce-Website
-Navigating the Evolving Online Marketplace
+Shopie is an e-commerce platform offering a seamless online shopping experience. It collects and securely manages essential data like user info, orders, cart details, wishlists, messages, and product information (names, prices, descriptions) using a structured database. The project focuses on simplifying shopping while ensuring customer satisfaction and convenience.
+Many e-commerce platforms are cluttered, making it difficult for users to navigate, find products, or complete transactions smoothly. Shopie addresses these issues by offering a user-friendly interface, a streamlined shopping process, and a secure checkout system. Additionally, it resolves the challenges of managing product data efficiently through a robust backend database.
